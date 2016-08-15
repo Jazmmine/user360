@@ -1,0 +1,42 @@
+*{
+	margin: 0%;
+	padding: 0%;
+	box-sizing: border-box;
+}
+
+.navbar-transparent {
+    padding-top: 15px;
+    background-color: transparent;
+    border-bottom: 1px solid transparent;
+}
+
+.text-color-white{
+	color: white;
+}
+
+.bg-large{
+	background-image: url("../image/large.jpg");
+	padding:20% 30%;
+	background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.caja{
+	background-color: #70757D;
+}
+
+.separador-contenido{
+	background-image: url("../image/separador.png");
+	padding:5% 5%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ 
+/*contact.html*/
+.bg-formulario{
+	background-image: url("../image/large.jpg");
+	padding:30% 30%;
+    background-position: center;
+    background-repeat: no-repeat;	
+}
